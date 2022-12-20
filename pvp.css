@@ -241,7 +241,7 @@ button:hover {
 
 
 
-@media screen and (width: 820px) {
+@media screen and (max-width: 820px) {
   .header{
     margin-left: -390px;
   }
@@ -287,7 +287,7 @@ button:hover {
   
 
   #p1{
-    margin-left: -60px;
+    
     width: 600px;
     margin-top: 10px;
   }
@@ -299,7 +299,7 @@ button:hover {
   }
 
   #p3{
-    margin-left: 70px;
+    margin-left: 50px;
     width: 600px;
     margin-top: 10px;
   }
@@ -307,7 +307,6 @@ button:hover {
   #p4{
     margin-left: 50px;
     width: 600px;
-    margin-top: 10px;
   }
 
 
@@ -317,9 +316,96 @@ button:hover {
 
 
 
-  #vpered img{
-    width: 400px;
+  #imggg{
+    width: 100px;
   }
 
 
+  .buttons{
+    width: 200px;
+    margin-left: -20px;
+  }
+
+  #butt{
+    margin-top: 50px;
+    margin-left: -80px;
+  }
+}
+
+
+@media screen and (max-width: 415px){
+  .header{
+    margin-left: -390px;
+  }
+
+  #img1{
+    width: 414px;
+    height: 300px;
+  }
+
+
+  .info div{
+    padding: 2%;
+  }
+
+
+  .textglitch{
+    margin-top: -180px;
+  }
+
+
+  .main2 div{
+    display: inline-block;
+  }
+
+
+  .suret1{
+    margin-top: -160px;
+    width: 41px;
+    margin-left: 10px;
+  }
+
+  .suret2{
+    margin-top: 10px;
+    width: 81px;
+    margin-left: 40px;
+  }
+  
+
+  .suret3{
+    width: 810px;
+    margin-left: 40px;
+  }
+
+  .suret4{
+    margin-top: 10px;
+    width: 810px;
+    margin-left: 40px;
+  }
+
+  
+
+  #p1{
+    margin-left: 10px;
+    width: 380px;
+    margin-top: 10px;
+  }
+
+  #p2{
+    margin-left: 50px;
+    width: 380px;
+    margin-top: 10px;
+  }
+
+  #p3{
+    margin-left: 70px;
+    width: 380px;
+    margin-top: 10px;
+  }
+
+  #p4{
+    margin-left: 10px;
+    width: 380px;
+    margin-top: 10px;
+  }
 }
