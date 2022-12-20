@@ -1,0 +1,95 @@
+body{
+    margin: 0 auto;
+  }
+  
+  .header{
+    display: flex;
+    background-color: rgb(251, 245, 239);
+    height: 00px;
+  }
+  
+  .game{
+    background-color:  rgb(211, 39, 39);
+    color: white;
+    margin-left: 100px;
+    text-align: center;
+    align-items: center;
+    border-radius: 0 0 15px 15px;
+    position: fixed;
+    height: 60px;
+    width: 180px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  }
+  
+  
+  
+  .info{
+    display: flex;
+    margin-left: 60%;
+    background-color: white;
+    border-radius: 0 0 10px 10px;
+    align-items: center;
+    text-align: center;
+    width: 470px;
+    height: 60px;
+    position: fixed;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  }
+  .info div{
+    padding: 25px;
+  }
+  
+  
+  .info div:hover{
+    background-color: rgb(211, 39, 39);
+    color: white;
+    border-radius: 0 0 10px 10px;
+    height: 15px;
+    cursor: pointer;
+  }
+  
+  
+  .game p{
+    font-size: 130%;
+    font-family:'Comic Sans MS', cursive;
+    margin-top: 12px; 
+  }
+
+  .headline{
+    margin-left: 7%;
+    font-size: 50px;
+    font-family: 'Suez One', serif;
+    color: #272443;
+  }
+
+  .underheadline{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 7%;
+    color: #272443;
+  }
+
+  .red{
+    background-color: rgb(201, 50, 50);
+    width: 80%;
+    height: 700px;
+    padding: 20px;
+  }
+
+  .inred{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .adams{
+    width: 90%;
+    border-radius: 10px;
+  }
+
+  .underred{
+    width: 82.8%;
+    height: 400px;
+    text-align: left;
+    
+  }
+
+  
