@@ -394,6 +394,40 @@ a{
     margin-top: 90px;
   }
 
+  #imgg4{
+    width: 350px;
+    height: 400px;
+  }
+
+
+  #photo{
+    margin-left: -60px;
+  }
+
+  .reviews{
+    display: inline-block;
+  }
+
+  .img3{
+    margin-left: 70px;
+  }
+
+  .rec{
+    margin-left: 60px;
+  }
+
+
+  .info3{
+    margin-left: -210px; 
+  }
+
+  .stores{
+    margin-left: 13px;
+  }
+
+  #texttt{
+    display: none;
+  }
 
   
 }

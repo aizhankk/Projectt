@@ -166,7 +166,7 @@ function log_php(lastEmail, lastPassword) {
             if (result === "login") {
                 // alert(result.email.value);
                 // document.getElementById('emailPr').innerHTML = "Changed";
-                window.open("/Projectt/Projectt/kipon.html", "_self")
+                window.open("/Projectt/Projectt/home.html", "_self")
             } else window.alert("Wrong login or password")
         },
         error: function () {
